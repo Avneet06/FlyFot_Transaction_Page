@@ -11,7 +11,7 @@ import Settlement from './components/Settlement'
 
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
    <>
